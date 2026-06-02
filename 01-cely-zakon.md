@@ -517,6 +517,11 @@ Po zavedení eura by emisní monopol na euromince přešel na ECB a národní ce
 
 Měnová jednotka má **ústavní význam** — fixace „korun české" v zákoně je symbolickým prvkem státní suverenity (sdílí s erbem a vlajkou v čl. 14 Ústavy).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 975/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/73FD0DBE88CB2D5BC1257A4E006946D8?openDocument) — 24. 9. 2003, kat. A
+  > „Bez zřetele k tomu, jaká je nejmenší platná mince v České republice, je nejmenší peněžní jednotkou v České republice jeden haléř (§ 13 zákona č. 6/1993 Sb. ve znění pozdějších předpisů). Rozhodnutí, jímž soud uložil žalovanému plnit žalobci v korunách českých, včetně 14 haléřů, je v souladu se zákonem"
+
 ---
 
 ### § 14 — Správa zásob
