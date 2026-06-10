@@ -24,6 +24,13 @@
 
 **Kompetence správního úřadu (odst. 3):** ČNB má kompetence správního úřadu — tedy vykonává vrchnostenskou veřejnou moc (licencuje, ukládá pokuty, vydává opatření k nápravě, vyhlášky). Pro tuto činnost se použije **správní řád** (§ 500/2004 Sb.) — viz § 46c o rozkladu; pro kontrolu na místě se použije **kontrolní řád** (§ 255/2012 Sb.) s výjimkami v § 45.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 161/97](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-161-97) — usnesení, 15. 11. 1997
+  > „Podle ustanovení § 1 odst. 3 zákona č. 6/1993 Sb., o ČNB, „ČNB působí jako správní úřad v rozsahu stanoveném tímto zákonem a zvláštními zákony". Jako správní úřad ČNB vystupuje i při výkonu nucené správy … činnost správce je proto nutno považovat za delegovaný výkon státní správy, prováděný fyzickou osobou na základě zákona, o čemž např. svědčí skutečnost, že nucený správce ex lege musí být zaměstnancem ČNB (§ 28 zákona o bankách)"
+- *ÚS* [I.ÚS 127/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-127-04) — usnesení, 21. 3. 2006
+  > „činnost správce pověřeného výkonem nucené správy je nutno považovat - s ohledem na postavení Č., jako správního úřadu (§ 1 odst. 3 zákona č. 6/1993 Sb., o ČNB) - za delegovaný výkon státní správy prováděný fyzickou osobou na základě zákona, o čemž svědčí skutečnost, že správce musí být zaměstnancem Č., nebo že o věcech v působnosti valné hromady činí rozhodnutí s předchozím souhlasem Č"
+
 #### Vazba na Ústavu
 
 Čl. 98 odst. 1 Ústavy: „**Česká národní banka je ústřední bankou státu. Hlavním cílem její činnosti je péče o cenovou stabilitu**." § 1 ZČNB tuto ústavní normu rozvádí a doplňuje o dohledové a krizové funkce, které ústavní text neuvádí, ale jsou s ústavní rolí ČNB slučitelné a běžné v evropské praxi.
@@ -151,6 +158,11 @@ Po případném zavedení eura by ČNB přešla do plnoprávného členství v E
 > *(4) Česká národní banka zváží možný dopad svého rozhodnutí, které hodlá vydat v souvislosti s výkonem dohledu podle odstavce 2 písm. d), na stabilitu finančního systému jiného členského státu Evropské unie, a to s přihlédnutím ke skutečnostem dostupným v době jeho vydání a zejména v případech, kdy nastane mimořádná situace, která by mohla fungování finančních systémů ovlivnit.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Af 7/2014 - 249](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/409810) — 19. 8. 2020
+  > „Mezi nejobecnější zákonem vymezené cíle ČNB je ochrana důležitého veřejného zájmu na cenové stabilitě, finanční stabilitě a bezpečném fungování finančního sytému v České republice (§ 2 odst. 1 zákona č. 6/1993 Sb., o České národní bance). Konkrétním aplikačním projevem tohoto poslání je dohled nad družstevními záložnami, které ČNB vykonává od okamžiku udělení povolení instituci působit jako družstevní záložna …"
 
 #### Hierarchie cílů (odst. 1) — primát cenové stability
 
@@ -550,6 +562,11 @@ Bankovní rada je **kolegiálním nejvyšším orgánem** ČNB. § 5 odst. 1 jí
 1. **Měnová politika** — určení a provádění, včetně stanovení úrokových sazeb (repo sazba, diskontní sazba, lombardní sazba) a nástrojů (otevřené tržní operace, povinné minimální rezervy, devizové intervence).
 2. **Makroobezřetnostní politika** — stanovení kapitálových rezerv (CCyB, SyRB), úvěrových ukazatelů (LTV, DSTI, DTI), vydávání doporučení.
 3. **Dohled a řešení krize** — zásadní rozhodnutí (např. odebrání bankovní licence, rozhodnutí o nucené správě, rozhodnutí o resolučních opatřeních).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [14 A 109/2020 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/675101) — 18. 10. 2021
+  > „Bankovní rada je obecně rozkladovým orgánem pro rozhodnutí České národní banky (§ 5 odst. 2 písm. h) zákona č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů). České národní bance je svěřeno rozhodování o právech a povinnostech osob v široké řadě případů. … rozhodnutí bankovní rady má přímý dopad do práv a povinností subjektů, které nemusí mít žádný vztah k České národní bance"
 
 #### Vnitřní správa banky (odst. 2)
 
@@ -978,6 +995,11 @@ Vedle toho je **poradním orgánem** vlády v oblasti měnové politiky, makroob
 
 Tento mechanismus zajišťuje **transparentnost** a **informovanost** bez podřízenosti.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 14/01](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-01) — nález, 20. 6. 2001
+  > „Pokud pak jde o guvernéra, liší se jeho postavení od ostatních členů tím, že předsedá Bankovní radě … a že je oprávněn se účastnit s hlasem poradním schůzí vlády (§ 11). Ani v této skutečnosti nelze však spatřovat žádný prvek monokratického postavení guvernéra vůči Bankovní radě, jestliže je povinen respektovat její názor a tlumočit její stanovisko, nemluvě o tom, že se v tomto případě nejedná o rozhodovací pravomoc, ale pouze poradní funkci"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Ministr financí se dostaví na měnově-politické zasedání bankovní rady, předloží „návrh na snížení repo sazby o 50 bazických bodů", žádá o hlasování o svém návrhu a trvá na setrvání i během závěrečné porady a hlasování rady. Část rady má za to, že musí o ministrově návrhu hlasovat. Podklady: pozvánka/oznámení účasti, jednací řád rady, zápis ze zasedání.
@@ -1036,6 +1058,11 @@ Tento mechanismus zajišťuje **transparentnost** a **informovanost** bez podř�
 
 Po zavedení eura by emisní monopol na euromince přešel na ECB a národní centrální banky Eurosystému dle pravidel ESCB (čl. 128 SFEU); na koruny by zanikl.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 Af 41/2020 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/700293) — 24. 3. 2022
+  > „Peněžní prostředky a jejich emise v rámci České republiky spadá pod pravomoc České centrální banky, a to na základě ustanovení § 12 a § 13 zákona č. 6/1993 Sb., o České národní bance, podle kterých jenom Česká národní banka má výhradní právo vydávat bankovky a mince české koruny, která je oficiální zákonnou peněžní jednotkou České republiky. … bitcoin je virtuální neregulovanou měnou, která nespadá pod regulaci a dohled žádné centrální banky ve světě"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Obec K vydá k výročí založení „místní koruny" — papírové poukázky s nominály 50 a 100, graficky připomínající bankovky, přijímané v obecních zařízeních a u zapojených obchodníků místo peněz. Soukromá mincovna L současně razí a prodává „pamětní mince obce" s vyznačeným nominálem „100 korun". ČNB zvažuje postup; policie prověřuje podezření z trestného činu. Důkazy: vzorky poukázek a mincí, pravidla jejich oběhu, marketingové materiály.
@@ -1091,8 +1118,10 @@ Měnová jednotka má **ústavní význam** — fixace „korun české" v záko
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Odo 975/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/73FD0DBE88CB2D5BC1257A4E006946D8?openDocument) — 24. 9. 2003, kat. A
+- *NS* [29 Odo 975/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/73FD0DBE88CB2D5BC1257A4E006946D8?openDocument) — kat. A, 24. 9. 2003
   > „Bez zřetele k tomu, jaká je nejmenší platná mince v České republice, je nejmenší peněžní jednotkou v České republice jeden haléř (§ 13 zákona č. 6/1993 Sb. ve znění pozdějších předpisů). Rozhodnutí, jímž soud uložil žalovanému plnit žalobci v korunách českých, včetně 14 haléřů, je v souladu se zákonem"
+- *NSS* [30 Af 41/2020 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/700293) — 24. 3. 2022
+  > „Peněžní prostředky a jejich emise v rámci České republiky spadá pod pravomoc České centrální banky, a to na základě ustanovení § 12 a § 13 zákona č. 6/1993 Sb., o České národní bance, podle kterých jenom Česká národní banka má výhradní právo vydávat bankovky a mince české koruny, která je oficiální zákonnou peněžní jednotkou České republiky"
 
 #### F. Kazuistika
 
@@ -1242,6 +1271,13 @@ Měnová jednotka má **ústavní význam** — fixace „korun české" v záko
 - zákon č. 254/2004 Sb. o omezení plateb v hotovosti — limit 270 000 Kč na platbu v hotovosti;
 - speciální zákony mohou stanovit povinnost bezhotovostní platby (např. mzdy zaměstnanců, určité daňové platby);
 - mince z drahých kovů a pamětní emise (odst. 2) jsou prodávány za ceny odlišné od nominálu (typicky výrazně vyšší, např. zlatá pamětní mince s nominálem 10 000 Kč může stát 50 000 Kč podle ceny zlata a sběratelské hodnoty); v platbách však zůstávají **zákonnými penězi v nominální hodnotě** (pokud byly vydány s nominální hodnotou).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 As 49/2007 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/253798) — 8. 11. 2007
+  > „Zákonnými penězi jsou platné bankovky a mince vydané Českou národní bankou ve své nominální hodnotě a při všech platbách na území České republiky (§ 16 odst. 1 zákona č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů). Stravovací poukázky nemají svou definici v právním řádu České republiky, přijímání stravovacích poukázek je závislé na smluvní dohodě mezi subjektem, který takové poukázky vydává a příslušným obchodníkem"
+- *NSS* [8 As 35/2005 - 51](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/241300) — 11. 4. 2006
+  > „Zákonnými penězi jsou ve smyslu ustanovení § 16 odst. 1 zákona č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů, platné bankovky a mince vydané Českou národní bankou, a to ve své nominální hodnotě a při všech platbách na území České republiky"
 
 #### F. Kazuistika
 
@@ -1456,6 +1492,11 @@ Výrobci, dovozci a prodejci medailí a žetonů musí vyloučit záměnu s minc
 **Výklad:**
 
 § 22 je **zmocňovacím ustanovením** pro vyhlášky ČNB upravující emisi a stahování bankovek a mincí. Každý nový vzor (např. 2 000 Kč bankovka 2007, 100 Kč bankovka 2018) je vyhlášen samostatnou vyhláškou ČNB ve Sbírce zákonů. Vyhláška obsahuje technický popis, datum počátku platnosti a další pravidla (např. den ukončení platnosti starého vzoru a lhůtu výměny).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [78 Ad 65/2012 - 26](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/549691) — 3. 6. 2014
+  > „Nominální hodnoty a další náležitosti bankovek a mincí a jejich vydání do oběhu stejně jako ukončení jejich platnosti stanoví vyhláškami Česká národní banka (viz ustanovení § 22 zákona č. 6/1993 Sb., o České národní bance). Od 1. 9. 2008 je nejnižší platnou nominální hodnotou peněz v oběhu korunová mince, proto musí být při konečném zúčtování prodávaných výrobků v hotovosti celková částka nákupu zaokrouhlována na celé koruny, a to vždy k nejbližší její hodnotě"
 
 #### F. Kazuistika
 
@@ -2216,6 +2257,11 @@ ECB každoročně hodnotí dodržování zákazu měnového financování všemi
 
 § 35 svěřuje ČNB **devizovou politiku** ve čtyřech dimenzích:
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 A 48/2023 - 82](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/736197) — 30. 9. 2024
+  > „jedinou zákonnou úpravu použitelného kurzu devizového trhu obsahuje § 35 písm. b) zákona č. 6/1993 Sb., o České národní bance. Neexistuje naopak žádná obecná úprava, která by umožňovala použít kurz získaný z jiného zdroje, např. kurz mezibankovního trhu. … „v souladu s požadavkem na předvídatelnost práva proto musí mít přednost kurz vyhlášený Českou národní bankou""
+
 #### Kurzový režim (písm. a)
 
 **ČNB stanoví režim kurzu** po projednání s vládou — toto pravidlo je důsledkem politické dimenze kurzové politiky (vláda má legitimní zájem na kurzu z hlediska zahraničního obchodu, dluhové politiky atd.). „Po projednání s vládou" ale **není „po souhlasu vlády"** — finální rozhodnutí náleží ČNB. Klauzule „nesmí být ohrožen hlavní cíl ČNB" potvrzuje primát cenové stability.
@@ -2354,6 +2400,11 @@ Tato úprava je odrazem expertního postavení ČNB v měnově-finančních otá
 ČNB provozuje **CERTIS** — RTGS systém mezibankovních plateb v korunách (viz § 33 odst. 4). Účast v CERTISu je nezbytná pro každého poskytovatele platebních služeb, který chce provádět mezibankovní transakce v Kč.
 
 **Kódy platebního styku** (tzv. **kódy banky**, 4 číslice za lomítkem v českém čísle účtu): 0100 = KB, 0300 = ČSOB, 0710 = ČNB, 0800 = Česká spořitelna, 2010 = Fio, 5500 = Raiffeisenbank apod. ČNB tyto kódy přiděluje, vede seznam (zveřejněný na webu) a stanoví pravidla tvorby čísel účtů podle **IBAN** (International Bank Account Number, ISO 13616). Český IBAN má formát `CZkk bbbb pppppp aaaaaaaaaa` (zkratky: kk = kontrolní číslice, bbbb = kód banky, pppppp = předčíslí, aaaaaaaaaa = vlastní číslo účtu).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 616/01](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-616-01) — usnesení, 18. 12. 2002
+  > „Ustanovením § 38 odst. 3 zákona č. 6/1993 Sb., o České národní bance, byla Česká národní banka zmocněna stanovit způsob provádění platebního styku mezi bankami a zúčtování na účtech bank a dále způsob používání platebních prostředků bankami v platebním styku. … Byť se nejedná o všeobecně závaznou úpravu, jsou citované obchodní podmínky bank respektovány jako standard všemi českými bankami"
 
 #### F. Kazuistika
 
@@ -3060,6 +3111,11 @@ Pro dohledové úkony včetně licenčních řízení ČNB legálně čerpá úd
 
 **Vyloučení pro podjatost** (odst. 2): zaměstnanec ČNB nesmí kontrolovat osobu, vůči níž je osobou blízkou nebo osobou v ní zaměstnanou.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 As 118/2018 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/648593) — 28. 11. 2018
+  > „aplikace § 38 správního řádu je vyloučena v § 45 odst. 1 větě druhé zákona o České národní bance … NSS nemá pochybnosti ani o ústavnosti vyloučení z nahlížení do spisu ve věcech obecného dohledu nad kapitálovým trhem. Ve hře jsou totiž významné veřejné hodnoty, jako je zájem na nestranném a profesionálním dohledu nad kapitálovým trhem a ochrana finančních trhů v Evropské unii"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** ČNB zahájí kontrolu na místě v bance zaměřenou na řízení úvěrového rizika. Kontrolní tým si vyžádá interní e-maily úvěrového výboru a zápisy představenstva. Banka (i) požaduje nahlédnout do spisu vedeného ČNB k dohledové činnosti, aby zjistila, jaké podklady ČNB shromáždila, a (ii) namítá podjatost členky kontrolního týmu, jejíž manžel je ředitelem odboru řízení rizik kontrolované banky. Důkazy: pověření ke kontrole, protokol o kontrole, organizační struktura banky, doklad o příbuzenském vztahu.
@@ -3621,6 +3677,11 @@ Veškeré přestupky podle ZČNB projednává výlučně ČNB jako prvostupňov�
 
 § 46c stanoví, že **pro ukončení řízení o rozkladu** se použijí ustanovení správního řádu **o odvolání** (§§ 81–93 SŘ) — tj. obecně postupy stejné jako u běžného odvolání (možnosti rozhodnutí: zamítnutí, změna, zrušení).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Afs 185/2024 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743669) — 24. 7. 2025
+  > „Odvolací správní orgán nemůže změnit napadené rozhodnutí v neprospěch odvolatele, ledaže odvolání podal také jiný účastník, jehož zájmy nejsou shodné, anebo je napadené rozhodnutí v rozporu s právními předpisy nebo jiným veřejným zájmem (§ 90 odst. 3 správního řádu). Tato ustanovení se použijí též na rozhodování bankovní rady o rozkladu (§ 46c zákona č. 6/1993 Sb., o České národní bance)"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** ČNB uloží obchodníkovi s cennými papíry pokutu za přestupek podle sektorového zákona. Obchodník podá rozklad; bankovní rada jej zamítne a rozhodnutí potvrdí. Obchodník namítá: (i) o rozkladu rozhodovali titíž členové bankovní rady, kteří dohledovou sekci fakticky řídí (systémová podjatost), a (ii) bankovní rada podle něj nesměla v rámci úvah zvažovat ani zpřísnění sankce. Důkazy: prvostupňové rozhodnutí, rozklad, rozhodnutí bankovní rady, organizační řád ČNB.
@@ -3728,6 +3789,13 @@ Správní poplatky za úkony ČNB (licence, povolení, registrace) vybírá a po
 > *(7) Alespoň jedna oprávněná úřední osoba podílející se na řízení o přestupku vedeném Českou národní bankou v každém stupni musí mít vysokoškolské vzdělání nejméně v magisterském studijním programu v oboru právo na vysoké škole v České republice. Nemá-li oprávněná úřední osoba vzdělání podle věty první, musí mít vysokoškolské vzdělání v jiné oblasti.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 As 400/2020 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/675563) — 10. 12. 2021
+  > „Nejvyšší správní soud se obdobnou argumentací, jako představila stěžovatelka, zabýval již v rozsudku ze dne 14. 7. 2021, č. j. 10 Afs 344/2020 - 53, v němž se sice zabýval aplikací § 46e odst. 3 zákona č. 6/1993 Sb., o České národní bance, nicméně výslovně uvedl, že toto ustanovení svým zněním odpovídá přesně § 32 odst. 3 přestupkového zákona (vyjma konkrétního určení délky prekluzivní doby), a obě ustanovení je proto třeba vykládat stejně"
+- *NSS* [18 A 11/2023 - 81](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/720983) — 8. 4. 2024
+  > „Současně platí, že v pětileté, resp. v případě přerušení v desetileté prekluzivní lhůtě [podle § 46e odst. 3 zákona č. 6/1993 Sb., o České národní bance, v rozhodném znění (zákon o ČNB), ve spojení s § 30 přestupkového zákona] musí být o přestupku pravomocně rozhodnuto"
 
 #### Oportunita (odst. 1)
 
@@ -4123,6 +4191,13 @@ Veškeré bankovní operace ČNB včetně stavů účtů (státu, bank, mezinár
 Vydává se elektronicky (web ČNB), v postupně číslovaných částkách (např. 14/2024). Úřední sdělení podepisuje člen bankovní rady (zpravidla guvernér).
 
 Vyhlášky ČNB se publikují ve **Sbírce zákonů** (nikoli ve Věstníku) — Věstník je sekundární publikační platforma pro úřední sdělení a opatření.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 288/2023 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/735974) — 25. 10. 2024
+  > „Výkladová stanoviska vydává žalovaná v souladu s § 49a odst. 3 zákona č. 6/1993 Sb., o České národní bance, jako úřední sdělení. Jejich povahou se NSS zabýval v usnesení ze dne 21. 11. 2006, č. j. 2 Ao 1/2006 47, č. 1680/2008 Sb. NSS, kde uvedl, že plní úlohu informační a mají i význam v dohledové činnosti z hlediska preventivního. Lze dodat, že důležitá jsou i z hlediska zásady legitimního očekávání, neboť žalovaná jimi dává najevo, jakým způsobem bude neurčité právní pojmy vykládat"
+- *NSS* [11 A 45/2025 - 88](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747991) — 6. 11. 2025
+  > „Žalovaná sice podle § 49a odst. 3 zákona č. 6/1993 Sb., o České národní bance, vydává úřední sdělení, kterými informuje mj. o výkladových stanoviscích, to však neznamená, že by jí bylo zapovězeno vydávat další informativní sdělení a metodické pokyny"
 
 #### F. Kazuistika
 
