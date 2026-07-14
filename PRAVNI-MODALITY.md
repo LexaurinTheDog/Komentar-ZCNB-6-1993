@@ -131,3 +131,138 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | jmenuje; určí; vydá | [§ 6](https://e-sbirka.gov.cz/sb/1993/6#par_6); [§ 44a](https://e-sbirka.gov.cz/sb/1993/6#par_44a); [§ 45b](https://e-sbirka.gov.cz/sb/1993/6#par_45b); [§ 45c](https://e-sbirka.gov.cz/sb/1993/6#par_45c) |
 | Oprávnění a povinnost | je povinna; musí; je oprávněn; jsou povinny | [§ 3](https://e-sbirka.gov.cz/sb/1993/6#par_3); [§ 3a](https://e-sbirka.gov.cz/sb/1993/6#par_3a); [§ 11](https://e-sbirka.gov.cz/sb/1993/6#par_11); [§ 24](https://e-sbirka.gov.cz/sb/1993/6#par_24) |
 | Domněnky, fikce a účinkové konstrukce | nenalezen spolehlivý signál | — |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 6/1993 Sb., o České národní bance (ZČNB) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modalita vyjadřuje způsob, jímž norma spojuje s jednáním svůj deontický náboj. Nauka rozlišuje **objektivní modality**, které se vztahují k obsahu normy jako takové, a **subjektivní modality**, jež popisují postavení konkrétního subjektu. Mezi objektivní modality patří **příkaz** (norma ukládá určité chování jako povinné), **zákaz** (norma činí určité chování nedovoleným) a **dovolení** (norma ponechává chování na vůli adresáta, aniž je přikazuje či zakazuje). Klasický deontický čtverec přitom váže tyto operátory vztahy kontradikce a subalternace: co je přikázáno, je zároveň dovoleno; co je zakázáno, není dovoleno.
+
+Zvláštní postavení mají **zmocnění** (kompetenční normy). Nejde o pouhé dovolení chovat se určitým způsobem, nýbrž o normativní svěření pravomoci — schopnosti svým právním úkonem (vyhláškou, rozhodnutím, jmenováním) vyvolat právní následky. U předpisu, jímž je zřízena a vybavena ústřední banka, tvoří kompetenční normy páteř textu: určují, kdo a v jakém rozsahu smí utvářet měnovou politiku, vydávat prováděcí předpisy nebo jmenovat orgány. Zmocnění se od dovolení liší tím, že zakládá právní **moc**, nikoli jen právní **volnost**.
+
+**Subjektivní modality** stojí na korelativitě **oprávnění a povinnosti**: subjektivnímu právu jednoho subjektu zpravidla odpovídá povinnost subjektu jiného (Hohfeldova korelace nárok—povinnost, svoboda—no-right). ZČNB tento vztah zhusta zrcadlí — výhradnímu právu banky emitovat peníze odpovídá zákaz všech ostatních, a naopak nezávislosti banky odpovídá zákaz orgánů státu udílet jí pokyny. Normativní výrazy (deontické indikátory) jsou jazykové signály modality: „je povinen", „nesmí", „má právo", „stanoví", „jmenuje", „považuje se za".
+
+Svébytnou kategorií jsou **domněnky a fikce**. Vyvratitelná domněnka (praesumptio iuris) přesouvá důkazní břemeno a platí, dokud není prokázán opak; nevyvratitelná domměnka (praesumptio iuris et de iure) opak nepřipouští; **fikce** naopak prohlašuje za existující něco, o čem se ví, že tak není (typicky fixuje rozhodný okamžik). V ZČNB se s fikcí setkáme u určení okamžiku poskytnutí spotřebitelského úvěru pro účely dodržení úvěrových ukazatelů.
+
+### Příkaz
+
+Příkaz ukládá adresátu konat určitým způsobem. V ZČNB je nejvýznamnějším příkazem stanovení **hlavního cíle** činnosti banky: norma neponechává na úvaze, zda o cenovou stabilitu pečovat, nýbrž tuto péči přikazuje jako primární úkol, jemuž jsou podřízeny všechny ostatní činnosti. Příkaz zde má povahu programově-teleologickou — určuje účel, k němuž musí banka směřovat výkon všech svých pravomocí.
+
+Právě proto, že jde o cíl v hierarchii cílů, funguje tento příkaz i jako ústavně-výkladové vodítko: měnová i dohledová pravomoc banky se poměřují tím, zda slouží cenové (a odvozeně finanční) stabilitě. Normativní výraz „je" ve spojení „hlavním cílem činnosti … je péče o cenovou stabilitu" zde nese modální náboj příkazu.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 2 odst. 1 | je (péče o) | „Hlavním cílem činnosti České národní banky je péče o cenovou stabilitu." | Ukládá primární cíl v hierarchii cílů, jenž omezuje veškerou další činnost banky. |
+
+Judikatura tento příkaz čte jako ochranu kvalifikovaného veřejného zájmu, jenž prostupuje i dohledovou činnost banky:
+
+- *NSS* [9 Af 7/2014 - 249](judikatura/NSS-9-Af-7-2014-249.md) — rozsudek ze dne 19. 8. 2020, k § 2
+  > „Mezi nejobecnější zákonem vymezené cíle ČNB je ochrana důležitého veřejného zájmu na cenové stabilitě, finanční stabilitě a bezpečném fungování finančního sytému v České republice (§ 2 odst. 1 zákona č. 6/1993 Sb., o České národní bance). Konkrétním aplikačním projevem tohoto poslání je dohled nad družstevními záložnami, které ČNB vykonává od okamžiku udělení povolení instituci působit jako družstevní záložna"
+
+### Zákaz
+
+Zákaz je v ZČNB kvantitativně i významově nejsilnější modalitou. Slouží dvěma velkým účelům: ochraně **nezávislosti** centrální banky (oboustranný zákaz pokynů, taxativní omezení důvodů odvolání) a ochraně **stability** — měnové, finanční i integrity peněžního oběhu (zákaz měnového financování, úvěrové ukazatele, zákaz zaměnitelných předmětů). Normativními výrazy jsou „nesmí", „nesmějí", „Nikdo nesmí" a limitační obraty typu „pouze tehdy".
+
+Zvláštní pozornosti zasluhují dvě transpoziční normy práva EU: zákaz přijímat a vyžadovat pokyny (čl. 130 SFEU) a zákaz měnového financování veřejného sektoru (čl. 123 SFEU). Obě mají povahu absolutního zákazu bez možnosti výjimky a tvoří tvrdé jádro postavení banky v ESCB. Makroobezřetnostní zákazy (úvěrové ukazatele) mají naproti tomu adresáty v soukromém sektoru a jsou vynucovány správní sankcí.
+
+Formulace „může být odvolán **pouze tehdy**" je zákazem v převlečení: gramaticky připouští, ve skutečnosti však vyčerpávajícím výčtem důvodů zapovídá odvolání z jakékoli jiné příčiny. Obdobně „Nikdo nesmí" míří erga omnes na neurčitý okruh adresátů a chrání zaměnitelnost s oběživem.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 9 odst. 1 | nesmějí vyžadovat ani přijímat | „vyžadovat ani přijímat pokyny od prezidenta republiky, Parlamentu, vlády a jiných orgánů České republiky" | Absolutní oboustranný zákaz pokynů (transpozice čl. 130 SFEU) — jádro nezávislosti. |
+| § 6 odst. 10 | může být odvolán pouze tehdy | „Člen bankovní rady může být z funkce odvolán pouze tehdy, přestal-li splňovat podmínky … nebo dopustil-li se vážného pochybení" | Taxativně omezuje důvody odvolání a zapovídá odvolání z jiných příčin. |
+| § 34a odst. 1 | nesmí poskytovat | „nesmí poskytovat možnost přečerpání zůstatku bankovních účtů nebo jakýkoli jiný typ úvěru orgánům, institucím nebo jiným subjektům Evropské unie" | Zákaz měnového financování (transpozice čl. 123 SFEU). |
+| § 45a odst. 1 | nesmí poskytnout | „nesmí poskytnout spotřebitelský úvěr zajištěný obytnou nemovitostí, pokud by tím došlo k překročení horní hranice 1 nebo více úvěrových ukazatelů" | Makroobezřetnostní zákaz překračovat úvěrové limity (LTV/DSTI/DTI). |
+| § 21 odst. 1 | Nikdo nesmí | „Nikdo nesmí vyrábět, dovážet, nabízet, prodávat nebo jinak rozšiřovat medaile, žetony nebo podobné předměty" | Obecný zákaz šířit předměty zaměnitelné s mincemi ČNB (přestupek dle § 46). |
+
+Prohibiční prvek se v judikatuře projevuje i v rovině procesní — vyloučením obecné úpravy tam, kde by kolidovala s dohledovým režimem banky:
+
+- *NSS* [10 As 118/2018 - 53](judikatura/NSS-10-As-118-2018-53.md) — rozsudek ze dne 28. 11. 2018, k § 45
+  > „V nynějším případě šlo o výkon dohledu, nikoliv o klasické správní řízení; nahlížení do spisu proto vylučuje § 45 odst. 1 zákona č. 6/1993 Sb., o České národní bance"
+
+### Dovolení
+
+Ryzí dovolení — norma, která pouze ponechává chování na vůli adresáta, aniž je přikazuje či zakazuje — se v klasifikované množině ustanovení ZČNB samostatně nevyskytuje. To odpovídá povaze předpisu: text zřizuje a vybavuje veřejnoprávní instituci, a proto se permisivní prvek téměř vždy objevuje buď jako **oprávnění** (subjektivní právo, viz níže), nebo jako **zmocnění** (kompetence). Dovolení se zde tedy „rozpouští" ve dvou příbuzných modalitách: tam, kde by obecná úprava hovořila o tom, že subjekt „smí", ZČNB zpravidla přiznává „výhradní právo" (§ 12) nebo pravomoc „stanovit", „jmenovat", „určovat".
+
+Jazykově se dovolovací prvek nejvíce blíží formulacím zakládajícím poradní účast či fakultativní postup orgánů banky; i tam však bývá provázán s korelativní povinností (viz sekce *Oprávnění a povinnost*). Vzhledem k pravidlu, že tabulka čerpá výhradně z klasifikovaného doslovného znění, se pro tuto modalitu samostatná tabulka fragmentů neuvádí — reprezentativní příklady viz oddíly *Zmocnění* a *Oprávnění a povinnost*.
+
+### Zmocnění
+
+Zmocnění (kompetenční normy) tvoří konstrukční osu ZČNB. Rozlišit lze tři typy: (i) **normotvorné zmocnění** — pravomoc vydávat prováděcí vyhlášky a úřední sdělení; (ii) **politicko-rozhodovací zmocnění** — pravomoc nejvyššího orgánu banky určovat měnovou a makroobezřetnostní politiku; a (iii) **personální zmocnění** — pravomoc jmenovat a odvolávat členy bankovní rady. Všechny mají společné to, že svěřují právní **moc** vyvolat následky, nikoli pouhou volnost jednat.
+
+Normotvorné zmocnění (§ 22) opravňuje banku upravit vyhláškami náležitosti, vydání a stažení bankovek a mincí. Personální zmocnění (§ 6 odst. 2) je zároveň nástrojem nezávislosti: jmenování i odvolání přísluší hlavě státu bez součinnosti vlády, čímž je vyloučen vliv exekutivy na obsazení orgánu. Politicko-rozhodovací zmocnění (§ 5 odst. 1) svěřuje bankovní radě výlučnou pravomoc formulovat měnovou a makroobezřetnostní politiku i nástroje k jejímu uskutečňování.
+
+Charakteristickými normativními výrazy jsou „stanoví vyhláškami", „určuje", „jmenuje a odvolává". Judikatura přitom výslovně používá pojem „zmocnění" i „stanoví vyhláškami" jako identifikátor kompetenční normy.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 5 odst. 1 | určuje | „Bankovní rada určuje měnovou a makroobezřetnostní politiku a nástroje pro jejich uskutečňování." | Svěřuje nejvyššímu kolegiálnímu orgánu výlučnou pravomoc formulovat měnovou politiku. |
+| § 6 odst. 2 | jmenuje a odvolává | „Guvernéra, viceguvernéry a ostatní členy jmenuje a odvolává prezident republiky." | Personální kompetence hlavy státu bez součinnosti vlády — pilíř nezávislosti. |
+| § 22 odst. 1 | stanoví vyhláškami | „Česká národní banka stanoví vyhláškami" | Zmocnění vydávat prováděcí vyhlášky o bankovkách a mincích. |
+
+Kompetenční povahu normotvorných a prováděcích zmocnění potvrzuje judikatura obou vrcholných soudů:
+
+- *NSS* [78 Ad 65/2012 - 26](judikatura/NSS-78-Ad-65-2012-26.md) — rozsudek ze dne 3. 6. 2014, k § 22
+  > „Nominální hodnoty a další náležitosti bankovek a mincí a jejich vydání do oběhu stejně jako ukončení jejich platnosti stanoví vyhláškami Česká národní banka (viz ustanovení § 22 zákona č. 6/1993 Sb., o České národní bance)"
+- *ÚS* [II.ÚS 616/01](judikatura/US-II-S-616-01.md) — usnesení ze dne 18. 12. 2002, k § 38
+  > „Ustanovením § 38 odst. 3 zákona č. 6/1993 Sb., o České národní bance, byla Česká národní banka zmocněna stanovit způsob provádění platebního styku mezi bankami a zúčtování na účtech bank a dále způsob používání platebních prostředků bankami v platebním styku"
+
+### Oprávnění a povinnost
+
+Oprávnění a povinnost jsou dvě strany téže korelace. ZČNB přiznává bance i jednotlivcům subjektivní práva, jimž na druhé straně odpovídají povinnosti. Nejvýraznějším **oprávněním** je emisní monopol — výhradní právo banky vydávat bankovky a mince; jeho korelátem je (obecně formulovaný) zákaz všech ostatních subjektů takové oběživo vydávat či napodobovat. Nejvýraznější **povinností** uloženou fyzickým osobám je mlčenlivost zaměstnanců banky, jež trvá i po skončení pracovního vztahu a chrání důvěrné informace.
+
+Normativními výrazy oprávnění jsou „má výhradní právo", „je oprávněn"; povinnosti „jsou povinni", „je povinen". Korelativitu obou modalit ilustruje postavení guvernéra: je současně **oprávněn** účastnit se s hlasem poradním schůzí vlády a přitom **povinen** respektovat a tlumočit stanovisko bankovní rady — právo a povinnost zde vystupují v jediné funkci jako protipóly téhož vztahu.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 12 | má výhradní právo | „Česká národní banka má výhradní právo vydávat bankovky a mince, jakož i bankovky a mince pamětní" | Výlučné subjektivní právo na emisi hotovostních peněz — jádro ochrany peněžního oběhu. |
+| § 50 odst. 1 | jsou povinni zachovávat | „Zaměstnanci České národní banky jsou povinni zachovávat mlčenlivost ve služebních věcech." | Trvalá (i po skončení vztahu) povinnost mlčenlivosti chránící důvěrné informace ČNB. |
+
+Emisní monopol jako výhradní oprávnění potvrzuje judikatura i ve vymezení vůči neregulovaným virtuálním aktivům; korelaci oprávnění a povinnosti pak ilustruje postavení guvernéra:
+
+- *NSS* [30 Af 41/2020 - 49](judikatura/NSS-30-Af-41-2020-49.md) — rozsudek ze dne 24. 3. 2022, k § 12 a § 13
+  > „Peněžní prostředky a jejich emise v rámci České republiky spadá pod pravomoc České centrální banky, a to na základě ustanovení § 12 a § 13 zákona č. 6/1993 Sb., o České národní bance, podle kterých jenom Česká národní banka má výhradní právo vydávat bankovky a mince české koruny, která je oficiální zákonnou peněžní jednotkou České republiky."
+- *ÚS* [Pl.ÚS 14/01](judikatura/US-Pl-S-14-01.md) — nález ze dne 20. 6. 2001, k § 11
+  > „Ani v této skutečnosti nelze však spatřovat žádný prvek monokratického postavení guvernéra vůči Bankovní radě, jestliže je povinen respektovat její názor a tlumočit její stanovisko, nemluvě o tom, že se v tomto případě nejedná o rozhodovací pravomoc, ale pouze poradní funkci"
+
+### Domněnky a fikce
+
+Domněnky a fikce jsou v ZČNB řídké, o to však konstrukčně významné. Klasifikovaná množina obsahuje jednu **právní fikci** — určení okamžiku poskytnutí spotřebitelského úvěru zajištěného obytnou nemovitostí. Norma prohlašuje takový úvěr za „poskytnutý" již uzavřením smlouvy, byť fakticky (výplatou prostředků) může být poskytnut později. Účelem fikce je fixovat **rozhodný okamžik** pro posouzení, zda byly dodrženy makroobezřetnostní úvěrové ukazatele: hodnotí se stav ke dni uzavření smlouvy, nikoli k pozdějšímu čerpání.
+
+Na rozdíl od vyvratitelné domněnky, která by pouze přenášela důkazní břemeno a připouštěla důkaz opaku, fikce žádný protidůkaz nepřipouští — je nástrojem právní jistoty a předvídatelnosti aplikace úvěrových limitů. Normativním výrazem je zde obrat „považuje se za".
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 45a odst. 2 | považuje se za poskytnutý | „Spotřebitelský úvěr zajištěný obytnou nemovitostí se pro účely tohoto zákona považuje za poskytnutý uzavřením smlouvy o spotřebitelském úvěru." | Právní fikce fixující rozhodný okamžik pro posouzení dodržení úvěrových ukazatelů. |
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+V klíčových institutech ZČNB modality nevystupují izolovaně, nýbrž se skládají do funkčních celků:
+
+- **Nezávislost banky** stojí na souběhu **zákazů** a **zmocnění**: absolutní zákaz vyžadovat a přijímat pokyny (§ 9 odst. 1) je doplněn taxativním omezením důvodů odvolání jako kvazi-zákazem (§ 6 odst. 10) a personálním **zmocněním** hlavy státu jmenovat a odvolávat členy (§ 6 odst. 2). Teprve dohromady tvoří institucionální, personální a funkční nezávislost.
+- **Emisní režim a ochrana oběživa** kombinují **oprávnění** (výhradní právo emise, § 12), **zmocnění** (prováděcí vyhlášky, § 22) a **zákaz** erga omnes (zaměnitelné předměty, § 21). Judikatura přitom emisní monopol a peněžní soustavu čte jako výlučnou pravomoc banky a spojuje ji s definicí zákonné peněžní jednotky.
+- **Cenová a finanční stabilita** propojuje **příkaz** (hlavní cíl, § 2 odst. 1) se **zákazy** provádějícími tento cíl navenek — zákazem měnového financování (§ 34a) a úvěrovými ukazateli (§ 45a odst. 1) doplněnými **fikcí** rozhodného okamžiku (§ 45a odst. 2).
+- **Rozhodovací a dohledová činnost** spočívá na **zmocnění** bankovní rady jako vrcholného orgánu (§ 5), jemuž je svěřeno mj. rozhodování o rozkladu.
+
+Systémovou provázanost dokládají i tyto místní judikatorní ilustrace:
+
+- *NSS* [14 A 109/2020 - 27](judikatura/NSS-14-A-109-2020-27.md) — rozsudek ze dne 18. 10. 2021, k § 5 (zmocnění bankovní rady)
+  > „Bankovní rada je obecně rozkladovým orgánem pro rozhodnutí České národní banky (§ 5 odst. 2 písm. h) zákona č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů)"
+- *NS* [29 Odo 975/2002](judikatura/NS-29-Odo-975-2002.md) — rozhodnutí ze dne 24. 9. 2003, k § 13 (peněžní jednotka navazující na emisní oprávnění)
+  > „Bez zřetele k tomu, jaká je nejmenší platná mince v České republice, je nejmenší peněžní jednotkou v České republice jeden haléř (§ 13 zákona č. 6/1993 Sb. ve znění pozdějších předpisů). Rozhodnutí, jímž soud uložil žalovanému plnit žalobci v korunách českých, včetně 14 haléřů, je v souladu se zákonem."
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| Příkaz | „je (péče o)", „hlavním cílem … je" | § 2 odst. 1 (hlavní cíl — cenová stabilita) |
+| Zákaz | „nesmí", „nesmějí", „Nikdo nesmí", „pouze tehdy" | § 9 odst. 1, § 6 odst. 10, § 34a odst. 1, § 45a odst. 1, § 21 odst. 1 |
+| Dovolení | (v ZČNB projev v oprávnění/zmocnění) | — (viz § 12, § 5 odst. 1) |
+| Zmocnění | „určuje", „jmenuje a odvolává", „stanoví vyhláškami" | § 5 odst. 1, § 6 odst. 2, § 22 odst. 1 |
+| Oprávnění a povinnost | „má výhradní právo", „je oprávněn"; „jsou povinni", „je povinen" | § 12 (oprávnění), § 50 odst. 1 (povinnost) |
+| Domněnky a fikce | „považuje se za" | § 45a odst. 2 (fikce okamžiku poskytnutí úvěru) |
